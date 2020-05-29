@@ -13,6 +13,15 @@
     
     <item>
       <title>Name of the work 1</title>
+      <link>https://example.org/post/just/</link>
+      <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://example.org/post/just/</guid>
+      <description>Ninggal jejak</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 1</title>
       <link>https://example.org/post/work1/</link>
       <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
       
