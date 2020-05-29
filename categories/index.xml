@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nederburg</title>
-    <link>https://example.org/categories/</link>
+    <link>https://yourrepo-g910g5k9z.now.sh/categories/</link>
     <description>Recent content in Categories on Nederburg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Dec 2017 19:53:42 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yourrepo-g910g5k9z.now.sh/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>photography</title>
-      <link>https://example.org/categories/photography/</link>
+      <link>https://yourrepo-g910g5k9z.now.sh/categories/photography/</link>
       <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
       
-      <guid>https://example.org/categories/photography/</guid>
+      <guid>https://yourrepo-g910g5k9z.now.sh/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://example.org/categories/code/</link>
+      <link>https://yourrepo-g910g5k9z.now.sh/categories/code/</link>
       <pubDate>Tue, 21 Nov 2017 19:50:47 +0530</pubDate>
       
-      <guid>https://example.org/categories/code/</guid>
+      <guid>https://yourrepo-g910g5k9z.now.sh/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>https://example.org/categories/travel/</link>
+      <link>https://yourrepo-g910g5k9z.now.sh/categories/travel/</link>
       <pubDate>Fri, 05 May 2017 19:44:32 +0530</pubDate>
       
-      <guid>https://example.org/categories/travel/</guid>
+      <guid>https://yourrepo-g910g5k9z.now.sh/categories/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://example.org/categories/design/</link>
+      <link>https://yourrepo-g910g5k9z.now.sh/categories/design/</link>
       <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/categories/design/</guid>
+      <guid>https://yourrepo-g910g5k9z.now.sh/categories/design/</guid>
       <description></description>
     </item>
     
